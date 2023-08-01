@@ -4,9 +4,7 @@ The project example uses Apache as webserver, but can be executed in any CGI ena
 
 # Getting Started
 ## Requirements
-In an linux server environment install gnu CGI as instructed on this page https://www.gnu.org/software/cgicc/ 
-Install qemu-system-riscv
-(option) Install gdb-multiarch
+* In an linux server environment install gnu CGI as instructed on this page https://www.gnu.org/software/cgicc/ 
 ## Build and Run
 Clone this project & enter: git clone ... && cd botcpp
 Build: make
